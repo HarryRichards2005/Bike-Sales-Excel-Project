@@ -28,4 +28,7 @@ The aim was to present relationships between data in a graphical way. Presenting
 <p>It's best to you a pie chart because it helps me to compare the relationship between different dimensions within a specific context, this being age of customers and the revenue that they generate.</p>
 <p>I feel as though I have achieved the aim by gaining certain insights on the revenue on the company and how it relates to their customer base.</p>
 </div>
+<h2>What have I learned</h2>
+<p>I have learned how utilise visualisation features in excel</p>
+<p>I have practiced the idea of turning question into actionable insights</p>
 
