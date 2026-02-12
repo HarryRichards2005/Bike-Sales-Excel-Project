@@ -7,6 +7,20 @@ The aim was to present relationships between data in a graphical way. Presenting
 The bike sales company wants to determine the purchasing patterns of different demographic groups to identify areas where it needs to conenctrate it marketing efforts. The complany also wants to see if there are puchasing differences between the countries where it operates.
 </p>
 <div>
+<h2>Pivot Tables</h2>
+<img width="1031" height="243" alt="image" src="https://github.com/user-attachments/assets/e7d428a8-aa2d-4ab0-a5d2-acfb433b771e" />
+<p>I used the pivot table to help with readibility of numerical data. I have used conditional formatting to highlight the areas that are positive, and the ones that are negative</p>
+<p>This helps me understand the sales data based off age groups and countries and  provides insights to how the company can focus their marketing efforts.</p>
+</div>
+<div>
+<h2>Pivot Table Chart</h2>
+  <img width="479" height="291" alt="image" src="https://github.com/user-attachments/assets/705ef410-7c1a-4a92-ae68-3efe6717aa52" />
+  <p>This chart graphically shows the weakest area of sales on a global scale. It also shows that adult females are buying the most products.</p>
+  <p>This helps the company consider questions like why the youth age group have the lowest sales?</p>
+
+</div>
+
+<div>
 <h2>Profit Vs. Revenue over time</h2>
 <img width="644" height="266" alt="image" src="https://github.com/user-attachments/assets/a367be8b-552b-4602-9de3-96532828a21b" />
 <p>Based on this graph, we can see that profits and revenue increase over time. However, increase of the gap between the lines suggest that costs are rising as their profit isnt as high compared to the revenue. </p>
