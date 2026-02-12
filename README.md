@@ -16,7 +16,7 @@ The bike sales company wants to determine the purchasing patterns of different d
 <h2>Pivot Table Chart</h2>
   <img width="479" height="291" alt="image" src="https://github.com/user-attachments/assets/705ef410-7c1a-4a92-ae68-3efe6717aa52" />
   <p>This chart graphically shows the weakest area of sales on a global scale. It also shows that adult females are buying the most products.</p>
-  <p>This helps the company consider questions like why the youth age group have the lowest sales?</p>
+  <p>This helps the company consider questions like why the youth age group has the lowest sales?</p>
 
 </div>
 
