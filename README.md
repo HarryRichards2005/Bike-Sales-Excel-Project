@@ -16,7 +16,7 @@ The aim was to present relationships between data in a graphical way. Presenting
 <div>
 <h2>Product Revenue by Country</h2>
 <img width="560" height="269" alt="image" src="https://github.com/user-attachments/assets/3c0109ea-97d3-40a6-b71e-b924990a004c" />
-<p>Based on this graph, we can see how different products perform in different countries. We can learn that bikes are the most popular item across these countries. Also, the United States ans Australia are the biggest buyers for bikes. This might encourage marketing campaigns in the remaning countries in an effort to increase sales.</p>
+<p>Based on this graph, we can see how different products perform in different countries. We can learn that bikes are the most popular item across these countries. Also, the United States and Australia are the biggest buyers for bikes. This might encourage marketing campaigns in the remaning countries in an effort to increase sales.</p>
 <p>I have used a column chart because I wanted to compare data across these discrete categories. It also makes it easier to highlight the highest and lowest values.</p>
 <p>I feel this meets the aim as I have gained an insight on the data and interpreted them in a graphical way. I have found how the products perform in different contries and provided insights into where they might want to focus on.</p>
 </div>
