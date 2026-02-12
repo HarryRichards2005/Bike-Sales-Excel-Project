@@ -44,5 +44,5 @@ The bike sales company wants to determine the purchasing patterns of different d
 </div>
 <h2>What have I learned</h2>
 <p>I have learned how utilise visualisation features in excel</p>
-<p>I have practiced the idea of turning question into actionable insights</p>
+<p>I have practiced the idea of turning questions into actionable insights</p>
 
