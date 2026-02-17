@@ -43,6 +43,9 @@ The bike sales company wants to determine the purchasing patterns of different d
 <p>I feel as though I have achieved the aim by gaining certain insights on the revenue on the company and how it relates to their customer base.</p>
 </div>
 <h2>What have I learned</h2>
-<p>I have learned how utilise visualisation features in excel</p>
-<p>I have practiced the idea of turning questions into actionable insights</p>
+<ul>
+<li>I have learned how utilise visualisation features in excel</li>
+<li>I have practiced the idea of turning questions into actionable insights</li>
+</ul>
+
 
